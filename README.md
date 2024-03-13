@@ -1,1 +1,0 @@
-# Safaricom-Daraja-API

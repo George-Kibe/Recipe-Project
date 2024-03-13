@@ -1,5 +1,0 @@
-cryptic-coast-93031
-
-https://cryptic-coast-93031.herokuapp.com/
-
-https://git.heroku.com/cryptic-coast-93031.git
