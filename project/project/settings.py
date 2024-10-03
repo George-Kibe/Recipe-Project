@@ -29,6 +29,7 @@ INSTALLED_APPS = [
     #project
     'core',
     'user',
+    'recipe',
     #external
     'rest_framework',
     'rest_framework.authtoken',
